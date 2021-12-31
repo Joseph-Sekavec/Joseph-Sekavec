@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Joseph-Sekavec
 - 👀 I’m interested in machine learning, ethical hacking, computer architecture, web development, creating scripts to automate tasks, and programming languages/paradigmns.
+- I also wish to learn how to build and work on compilers and programming languages.
 - 🌱 I’m currently learning The basics of Java and Python, and I am trying to learn more about the c++ stl as I have learned a lot of the basics in cs so far, and as such there
 are some holes in my knowledge.
 - 💞️ I’m looking to collaborate on  Some really basic projects that can lead to more interesting projects.
